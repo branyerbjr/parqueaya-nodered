@@ -2,7 +2,7 @@
 FROM node:14
 
 # Etiqueta de información del creador
-LABEL maintainer="Tu Nombre <tu@email.com>"
+LABEL maintainer="parqueaya <sistemakatayaku@gmail.com>"
 
 # Directorio de trabajo en el contenedor
 WORKDIR /usr/src/node-red
